@@ -1,0 +1,16 @@
+label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.filter-bar-container {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.print-type-filter-form {
+    margin-right: 50px;
+}
